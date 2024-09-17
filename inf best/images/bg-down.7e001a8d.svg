@@ -1,0 +1,30 @@
+<svg width="1420" height="486" viewBox="0 0 1420 486" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4" clip-path="url(#clip0_6160_28898)">
+<g filter="url(#filter0_f_6160_28898)">
+<path d="M641.918 0L355.842 661.999M420.055 2.37373e-05L-3.99877 245.642M346.099 2.37373e-05L-3.99877 162.257M272.15 0L-3.9999 106.659M494.012 0L-3.9998 384.588M198.194 0L-3.9999 66.9399M50.2819 0L-4 13.9796M124.238 0L-4 37.1481M1233.55 0L1436 67.0612M715.873 0L715.378 661.999M1307.51 0L1436 37.2359M1381.46 0L1436 14.0493M1159.6 0L1436 106.822M1085.64 0L1436 162.482M937.736 0L1436 385.229M1011.69 0L1436 246.003M789.83 0L1074.92 661.999M567.961 0L-3.69296 661.999M863.78 0L1434.45 661.999L-3.69206 662M1436 90.3447H-3.9991M1436 29.759H-3.9991M1436 42.1117H-3.9991M1436 56.0825H-3.9991M1436 8.89293H-3.9991M1436 18.7563H-3.9991M1436 486.752H-3.9991M1436 111.656H-3.9991M1436 72.0168H-3.9991M1436 0H-3.99891M1436 136.741H-3.9991M1436 166.711H-3.9991M1436 381.993H-3.9991M1436 203.139H-3.9991M1436 248.364H-3.9991M1436 306.007H-3.9991" stroke="url(#paint0_linear_6160_28898)" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M641.918 0L355.842 661.999M420.055 2.37373e-05L-3.99877 245.642M346.099 2.37373e-05L-3.99877 162.257M272.15 0L-3.9999 106.659M494.012 0L-3.9998 384.588M198.194 0L-3.9999 66.9399M50.2819 0L-4 13.9796M124.238 0L-4 37.1481M1233.55 0L1436 67.0612M715.873 0L715.378 661.999M1307.51 0L1436 37.2359M1381.46 0L1436 14.0493M1159.6 0L1436 106.822M1085.64 0L1436 162.482M937.736 0L1436 385.229M1011.69 0L1436 246.003M789.83 0L1074.92 661.999M567.961 0L-3.69296 661.999M863.78 0L1434.45 661.999L-3.69206 662M1436 90.3447H-3.9991M1436 29.759H-3.9991M1436 42.1117H-3.9991M1436 56.0825H-3.9991M1436 8.89293H-3.9991M1436 18.7563H-3.9991M1436 486.752H-3.9991M1436 111.656H-3.9991M1436 72.0168H-3.9991M1436 0H-3.99891M1436 136.741H-3.9991M1436 166.711H-3.9991M1436 381.993H-3.9991M1436 203.139H-3.9991M1436 248.364H-3.9991M1436 306.007H-3.9991" stroke="url(#paint1_linear_6160_28898)" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<filter id="filter0_f_6160_28898" x="-8.5" y="-4.5" width="1449" height="671" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_6160_28898"/>
+</filter>
+<linearGradient id="paint0_linear_6160_28898" x1="716" y1="270.851" x2="716" y2="-222.09" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1DED83" stop-opacity="0.4"/>
+<stop offset="0.1" stop-color="#1DED83" stop-opacity="0.6"/>
+<stop offset="0.5" stop-color="#121212" stop-opacity="0.1"/>
+<stop offset="0.6222" stop-color="#121212"/>
+</linearGradient>
+<linearGradient id="paint1_linear_6160_28898" x1="716" y1="270.851" x2="716" y2="-222.09" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1DED83" stop-opacity="0.4"/>
+<stop offset="0.1" stop-color="#1DED83" stop-opacity="0.6"/>
+<stop offset="0.5" stop-color="#121212" stop-opacity="0.1"/>
+<stop offset="0.6222" stop-color="#121212"/>
+</linearGradient>
+<clipPath id="clip0_6160_28898">
+<rect width="1440" height="662" fill="white" transform="translate(-4)"/>
+</clipPath>
+</defs>
+</svg>
